@@ -1,0 +1,4 @@
+AMAlgebra|Aprobado|espacios
+am1|aprobada|integrales
+algebra|aprobada|espacios vectoriales
+algoritmos|aprobada|c++
